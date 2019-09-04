@@ -1,0 +1,13 @@
+{
+  "c2-chacha 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)": "1lcfazshbiw8kdpcgphlmls0mz5j4wnvsq1diaz4b2bcvgm3r2cn",
+  "cfg-if 0.1.9 (registry+https://github.com/rust-lang/crates.io-index)": "13g9p2mc5b2b5wn716fwvilzib376ycpkgk868yxfp16jzix57p7",
+  "getrandom 0.1.11 (registry+https://github.com/rust-lang/crates.io-index)": "1f9w5rra9zbnamnh8wl81rw5y87mn3ml4ra5cqrzq2wryzr41651",
+  "lazy_static 1.4.0 (registry+https://github.com/rust-lang/crates.io-index)": "13h6sdghdcy7vcqsm2gasfw3qg7ssa0fl3sw7lq6pdkbk52wbyfr",
+  "libc 0.2.62 (registry+https://github.com/rust-lang/crates.io-index)": "1vsb4pyn6gl6sri6cv5hin5wjfgk7lk2bshzmxb1xnkckjhz4gbx",
+  "ppv-lite86 0.2.5 (registry+https://github.com/rust-lang/crates.io-index)": "1r3bhih75vhl8v7q0flmywl7hmfg902yf3jjzracsh0jlkldij6r",
+  "rand 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)": "00nfv8p95nf985sxdfd7j23br77v47sf9hp95qjna1zsz4fyjs8v",
+  "rand_chacha 0.2.1 (registry+https://github.com/rust-lang/crates.io-index)": "0zpp3wmxhhmripb6bywhzhx5rfwl4dfbny85hpalwdj0sncv0p0k",
+  "rand_core 0.5.1 (registry+https://github.com/rust-lang/crates.io-index)": "19qfnh77bzz0x2gfsk91h0gygy0z1s5l3yyc2j91gmprq60d6s3r",
+  "rand_hc 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)": "0592q9kqcna9aiyzy6vp3fadxkkbpfkmi2cnkv48zhybr0v2yf01",
+  "wasi 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)": "07lkhjfx9ab19ri5gliqgga0jhafd1gv42y5ckb97l08wb7862k6"
+}

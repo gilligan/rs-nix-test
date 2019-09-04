@@ -1,0 +1,8 @@
+[package]
+name = "rs-nix-test"
+version = "0.1.0"
+authors = ["tobias pflug <tobias.pflug@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.0"
